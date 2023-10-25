@@ -5,4 +5,4 @@
 
 **My Skills :**
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,aws,mysql,electron,redis,wordpress,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,wordpress,js,jquery,html,css,aws,mysql,electron,redis)](https://skillicons.dev)
